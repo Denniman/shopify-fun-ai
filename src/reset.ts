@@ -13,6 +13,12 @@ const GlobalStyle = createGlobalStyle`
         box-sizing: border-box;
     }
 
+    body {
+        line-height: 1.5;
+        font-family: 'Roboto', sans-serif;
+        -webkit-font-smoothing: antialiased;
+    }
+
 
 `;
 
